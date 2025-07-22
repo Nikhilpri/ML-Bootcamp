@@ -1,4 +1,4 @@
 Linear regression:-99.99&
-Polynomial regression:-79%
+Polynomial regression:-98.98%
 KNN:-95.56%
 lOGISTIC:-40%
